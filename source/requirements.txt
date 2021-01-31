@@ -1,0 +1,4 @@
+boto3
+lxml
+requests
+moto==1.3.14
