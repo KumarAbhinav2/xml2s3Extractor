@@ -23,6 +23,12 @@
 5. Store the csv from step 4) in an AWS S3 bucket
 
 
+# Directions:
+
+Python version: 3.8
+Script to initiate: python driver.py
+
+
 # TODO:
 
 
