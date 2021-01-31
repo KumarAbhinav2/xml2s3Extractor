@@ -32,9 +32,7 @@ Script to initiate: python driver.py
 # TODO:
 
 
-Models are of no use currently, but idea tha we can extend further:
-
-  1: Record each path and its status, so that we can provide retry in case of failue
+  1: Models are of no use currently, but we can extend further, Record each path and its status, so that we can provide retry in case of failue.
   
   2: We can introduce a message queue for concurrent users scenario
   
